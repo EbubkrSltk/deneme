@@ -1,2 +1,3 @@
 # deneme
-deneme reposu
+Test Repository
+this message come from ubuntu vm!
